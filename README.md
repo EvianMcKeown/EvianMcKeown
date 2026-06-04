@@ -94,7 +94,7 @@ solutions for clients.
 			</p>
 		</td>
 		<td width="50%" valign="top">
-			<h3><a href="[https://github.com/EvianMcKeown/transit-planner](https://github.com/EvianMcKeown/PublicTransportJourneyPlanner)">Public Transit Journey Planner</a></h3>
+			<h3><a href="https://github.com/EvianMcKeown/PublicTransportJourneyPlanner">Public Transit Journey Planner</a></h3>
 			<p>Route planning system using real-world GTFS data. Implemented the RAPTOR algorithm alongside a Dijkstra variant, achieving 10x+ faster queries than naive approaches. Full Django web interface with 90%+ test coverage on core routing logic.</p>
 			<p>
 				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -105,7 +105,7 @@ solutions for clients.
 	</tr>
 	<tr>
 		<td width="50%" valign="top">
-			<h3><a href="https://evianmckeown.github.io">Portfolio Website</a></h3>
+			<h3><a href="https://evianmckeown.github.io/personal-website">Portfolio Website</a></h3>
 			<p>Personal portfolio with a GPU-accelerated animated background built with PixiJS, deployed automatically via GitHub Pages CI/CD.</p>
 			<p>
 				<img src="https://img.shields.io/badge/-PixiJS-E72264?style=flat-square&logoColor=white" alt="PixiJS"/>

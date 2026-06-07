@@ -1,8 +1,8 @@
-# Hey, I'm Evian 👋
+# About Me
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EvianMcKeown&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**CS Graduate · Software Engineering · Real-time Systems · Open Source**
+**Computer Science Graduate · Software Engineering · Open Source**
 
 Computer Science graduate with strong foundations in software engineering, algorithms, data structures,
 and backend systems development. Experienced in Python, Java, and C#, with a focus on building

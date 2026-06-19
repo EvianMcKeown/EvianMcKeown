@@ -131,13 +131,7 @@ solutions for clients.
 
 ---
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EvianMcKeown&rank_icon=default&hide_rank=true&hide_title=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=EvianMcKeown&rank_icon=default&hide_rank=true&hide_title=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true)
-
----
-
-## Let's Connect
+## Where to find me?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/evian-mckeown)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://evianmckeown.github.io/personal-website/)

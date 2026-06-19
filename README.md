@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EvianMcKeown&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**Computer Science Graduate · Software Engineering · Open Source**
+**Software Engineer**
 
 Computer Science graduate with strong foundations in software engineering, algorithms, data structures,
 and backend systems development. Experienced in Python, Java, and C#, with a focus on building
@@ -21,7 +21,7 @@ solutions for clients.
 		<th align="left">Technologies</th>
 	</tr>
 	<tr>
-		<td><b>💻 Languages</b></td>
+		<td><b>Languages</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 			<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -32,7 +32,7 @@ solutions for clients.
 		</td>
 	</tr>
 	<tr>
-		<td><b>🧰 Frameworks & Libraries</b></td>
+		<td><b>Frameworks & Libraries</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
 			<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
@@ -43,7 +43,7 @@ solutions for clients.
 		</td>
 	</tr>
 	<tr>
-		<td><b>🌐 Web & APIs</b></td>
+		<td><b>Web & APIs</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST APIs"/>
 			<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
@@ -52,14 +52,14 @@ solutions for clients.
 		</td>
 	</tr>
 	<tr>
-		<td><b>🗄️ Database & Data</b></td>
+		<td><b>Database & Data</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 			<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
 		</td>
 	</tr>
 	<tr>
-		<td><b>🔧 Systems & Infrastructure</b></td>
+		<td><b>Systems & Infrastructure</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
 			<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -67,7 +67,7 @@ solutions for clients.
 		</td>
 	</tr>
 	<tr>
-		<td><b>🧪 Practices</b></td>
+		<td><b>Practices</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-TDD-6DB33F?style=flat-square&logoColor=white" alt="TDD"/>
 			<img src="https://img.shields.io/badge/-OOP-3776AB?style=flat-square&logoColor=white" alt="OOP"/>

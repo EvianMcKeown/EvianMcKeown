@@ -4,12 +4,9 @@
 
 **Software Engineer**
 
-Computer Science graduate with strong foundations in software engineering, algorithms, data structures,
-and backend systems development. Experienced in Python, Java, and C#, with a focus on building
+Computer Science graduate - Experienced in Python, Java, and C#, with a focus on building
 performance-conscious, well-tested solutions to complex real-world problems. Comfortable
-troubleshooting technical issues across the full stack and documenting systems clearly. A collaborative
-and flexible team player seeking a graduate or junior software engineering role delivering quality
-solutions for clients.
+troubleshooting technical issues across the full stack and documenting systems clearly.
 
 ---
 

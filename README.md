@@ -17,12 +17,53 @@
 <ul>
    Experienced in Python, Java, and C#, with a focus on building performance-conscious, well-tested solutions to complex real-world problems.
 </ul>
+<br />
 
 
 
 ### Spotlight
-<!-- Projects here -->
 
+**[Album Cover Lockscreen — GNOME Shell Extension](https://github.com/EvianMcKeown/GNOME-Album-Cover-Lock)**
+`JavaScript` · GNOME Shell Extension
+<ul>
+High-performance album art collage for the GNOME lock screen, fetching user's top albums from the Last.fm API and displaying them as an animated lockscreen.
+</ul>
+<br />
+
+**[Databank Dialer](https://github.com/EvianMcKeown/Databank-Dialer)**
+`C#` · Hardware / Audio
+<ul>
+Real-time DTMF decoder for the Casio DBA-800 and DBA-80 watches, allowing their built-in phone dialer to work with modern smartphones.
+</ul>
+<br />
+
+**[Blur My Shell](https://github.com/aunetx/blur-my-shell)** *(contributor)*
+`JavaScript` · GNOME Shell Extension
+<ul>
+Adds a blur effect to different parts of the GNOME Shell, including the top panel, dash and overview. (2.1k+ ⭐)
+</ul>
+<br />
+
+**[Public Transport Journey Planner](https://github.com/EvianMcKeown/PublicTransportJourneyPlanner)**
+`Python` · Routing / Graph Problem
+<ul>
+A journey planner built on City of Cape Town public transport data, exploring graph-based pathfinding across multi-modal transit networks.
+</ul>
+<br />
+
+**[Personal Website](https://github.com/EvianMcKeown/personal-website)**
+`HTML` · Web
+<ul>
+Source for evianmckeown.github.io/personal-website.
+</ul>
+<br />
+
+### Currently Working On
+**[Suspension Kinematics & Vehicle Dynamics Simulation Suite](https://github.com/EvianMcKeown/suspension-dynamics-sim)**
+`C#` · Numerics, Multibody Dynamics
+<ul>
+A suspension kinematics solver with exact gradients via self implemented Automatic Differentiation. Constraint-based kinematics, quasi-static compliance, and reduced-DOF vehicle dynamics.
+</ul>
 <br />
 
 ---

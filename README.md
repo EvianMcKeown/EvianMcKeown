@@ -47,7 +47,7 @@ Adds a blur effect to different parts of the GNOME Shell, including the top pane
 **[Public Transport Journey Planner](https://github.com/EvianMcKeown/PublicTransportJourneyPlanner)**
 `Python` · Routing / Graph Problem
 <ul>
-A journey planner built on City of Cape Town public transport data, exploring graph-based pathfinding across multi-modal transit networks.
+Journey planner built on City of Cape Town public transport data, exploring graph-based pathfinding across multi-modal transit networks.
 </ul>
 <br />
 
@@ -62,7 +62,7 @@ Source for evianmckeown.github.io/personal-website.
 **[Suspension Kinematics & Vehicle Dynamics Simulation Suite](https://github.com/EvianMcKeown/suspension-dynamics-sim)**
 `C#` · Numerics, Multibody Dynamics
 <ul>
-A suspension kinematics solver with exact gradients via self implemented Automatic Differentiation. Constraint-based kinematics, quasi-static compliance, and reduced-DOF vehicle dynamics.
+Suspension kinematics solver with exact gradients via self implemented Automatic Differentiation. Constraint-based kinematics, quasi-static compliance, and reduced-DOF vehicle dynamics.
 </ul>
 <br />
 

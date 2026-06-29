@@ -23,7 +23,7 @@
 
 ### Spotlight
 
-**[Album Cover Lockscreen — GNOME Shell Extension](https://github.com/EvianMcKeown/GNOME-Album-Cover-Lock)**
+**[GNOME Album Cover Lockscreen](https://github.com/EvianMcKeown/GNOME-Album-Cover-Lock)**
 `JavaScript` · GNOME Shell Extension
 <ul>
 High-performance album art collage for the GNOME lock screen, fetching user's top albums from the Last.fm API and displaying them as an animated lockscreen.

@@ -59,7 +59,7 @@ Source for evianmckeown.github.io/personal-website.
 <br />
 
 ### Currently Working On
-**[Suspension Kinematics & Vehicle Dynamics Simulation Suite](https://github.com/EvianMcKeown/suspension-dynamics-sim)**
+**Suspension Kinematics & Vehicle Dynamics Simulation Suite**
 `C#` · Numerics, Multibody Dynamics
 <ul>
 Suspension kinematics solver with exact gradients via self implemented Automatic Differentiation. Constraint-based kinematics, quasi-static compliance, and reduced-DOF vehicle dynamics.

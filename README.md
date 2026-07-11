@@ -23,13 +23,6 @@
 
 ### Spotlight
 
-**[Album Cover Lockscreen](https://github.com/EvianMcKeown/Album-Art-Lockscreen)**
-`JavaScript` · GNOME Shell Extension
-<ul>
-High-performance album art collage for the GNOME lock screen, fetching user's top albums from the Last.fm API and displaying them as an animated lockscreen.
-</ul>
-<br />
-
 **[Databank Dialer](https://github.com/EvianMcKeown/Databank-Dialer)**
 `C#` · Hardware / Audio
 <ul>
@@ -59,6 +52,13 @@ Source for evianmckeown.github.io/personal-website.
 <br />
 
 ### Currently Working On
+**[Album Cover Lockscreen](https://github.com/EvianMcKeown/Album-Art-Lockscreen)**
+`JavaScript` · GNOME Shell Extension
+<ul>
+High-performance album art collage for the GNOME lock screen, fetching user's top albums from the Last.fm API and displaying them as an animated lockscreen.
+</ul>
+<br />
+
 **Suspension Kinematics & Vehicle Dynamics Simulation Suite**
 `C#` · Numerics, Multibody Dynamics
 <ul>

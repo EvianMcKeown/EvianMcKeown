@@ -44,6 +44,13 @@ Journey planner built on City of Cape Town public transport data, exploring grap
 </ul>
 <br />
 
+**[GT7 HUD](https://www.overtake.gg/downloads/gt7-hud.56420/)** *(maintainer)*
+`Lua` · Assetto Corsa / CSP
+<ul>
+Revived a Gran Turismo 7-style HUD mod (140k+ downloads) after years of inactivity. v1.3.0 adds throttle-blip/TC/ABS input visualisation, a tyre-telemetry module, turbo vacuum display, and a shared CSP hook for gamepad-FX assist scripts.
+</ul>
+<br />
+
 **[Personal Website](https://github.com/EvianMcKeown/personal-website)**
 `HTML` · Web
 <ul>
@@ -52,7 +59,7 @@ Source for evianmckeown.github.io/personal-website.
 <br />
 
 ### Currently Working On
-**[Album Cover Lockscreen](https://github.com/EvianMcKeown/Album-Art-Lockscreen)**
+**Album Cover Lockscreen**
 `JavaScript` · GNOME Shell Extension
 <ul>
 High-performance album art collage for the GNOME lock screen, fetching user's top albums from the Last.fm API and displaying them as an animated lockscreen.

@@ -15,7 +15,7 @@
 ### About Me
 
 <ul>
-   Experienced in Python, Java, and C#, with a focus on building performance-conscious, well-tested solutions to complex real-world problems.
+ I build software where performance and correctness matter: real-time audio decoding, public transport routing, and live telemetry for sim racing. 
 </ul>
 <br />
 

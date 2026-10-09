@@ -23,7 +23,14 @@
 
 ### Spotlight
 
-**[Databank Dialer](https://github.com/EvianMcKeown/Databank-Dialer)**
+**[WayFound](https://github.com/EvianMcKeown/WayFound)** · [Live demo](https://wayfound.ejmlabs.co.za)
+`Python` · Routing / Web
+<ul>
+Cape Town journey planner across MyCiTi, Golden Arrow and Metrorail, built on the RAPTOR algorithm: 88 ms median query time, about 30× faster than a Dijkstra baseline. Runs live on a hardened VPS.
+</ul>
+<br />
+
+**[Databank Dialer](https://github.com/EvianMcKeown/Casio-Databank-Dialer)** · [Live demo](https://dialer.ejmlabs.co.za)
 `C#` · Hardware / Audio
 <ul>
 Real-time DTMF decoder for the Casio DBA-800 and DBA-80 watches, allowing their built-in phone dialer to work with modern smartphones.
@@ -34,13 +41,6 @@ Real-time DTMF decoder for the Casio DBA-800 and DBA-80 watches, allowing their 
 `JavaScript` · GNOME Shell Extension
 <ul>
 Adds a blur effect to different parts of the GNOME Shell, including the top panel, dash and overview. (2.1k+ ⭐)
-</ul>
-<br />
-
-**[Public Transport Journey Planner](https://github.com/EvianMcKeown/PublicTransportJourneyPlanner)**
-`Python` · Routing / Graph Problem
-<ul>
-Journey planner built on City of Cape Town public transport data, exploring graph-based pathfinding across multi-modal transit networks.
 </ul>
 <br />
 

@@ -23,7 +23,7 @@
 
 ### Spotlight
 
-**[WayFound](https://github.com/EvianMcKeown/WayFound)** · [Live demo](https://wayfound.ejmlabs.co.za)
+**[WayFound – Cape Town Journey Planner](https://github.com/EvianMcKeown/WayFound)** · [Live demo](https://wayfound.ejmlabs.co.za)
 `Python` · Routing / Web
 <ul>
 Cape Town journey planner across MyCiTi, Golden Arrow and Metrorail, built on the RAPTOR algorithm: 88 ms median query time, about 30× faster than a Dijkstra baseline. Runs live on a hardened VPS.
